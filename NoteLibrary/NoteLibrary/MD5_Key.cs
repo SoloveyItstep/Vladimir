@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary
+namespace NoteLibrary
 {
     class MD5_Key
     {
